@@ -1,0 +1,8 @@
+#include<stdio.h>
+main()
+{
+int a;
+printf(" enter your lucky no.");
+scanf("%d",&a);
+printf(" your lucky no. is :%d ",a);
+}
